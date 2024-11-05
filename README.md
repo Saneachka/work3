@@ -3,7 +3,7 @@
 This project demonstrates polynomial regression with Lasso and Ridge regularization on an insurance dataset to predict healthcare expenses. The process includes data preprocessing, feature scaling, polynomial feature expansion, and model evaluation.
 
 Files
-polynomial_regression_insurance.py: Main code file containing the full implementation of polynomial regression on the dataset.
+polynomial_regression_insurance.ipynb: Main code file containing the full implementation of polynomial regression on the dataset.
 Project Overview
 The objective is to predict the insurance charges based on various factors like age, sex, BMI, children, smoker status, and region. We transform these features using polynomial expansion, then apply Lasso and Ridge regularization to enhance model performance and mitigate overfitting.
 

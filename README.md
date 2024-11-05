@@ -23,3 +23,13 @@ Evaluate models using metrics like R², Mean Absolute Error (MAE), and Mean Abso
 Visualization:
 
 Plot predicted vs actual charges to visualize model accuracy on test data.
+
+Usage
+To run the script:
+
+Upload your insurance.csv dataset to the appropriate directory.
+Execute the polynomial_regression_insurance.py file in Google Colab or any other Jupyter Notebook-compatible environment.
+Results
+R² score: Measures model fit for both training and test sets.
+MAE: Reflects the average absolute error between predicted and actual values.
+MAPE: Provides the percentage error, offering interpretability on prediction accuracy.
